@@ -273,6 +273,8 @@ body {
 
   .dropemail{
     border-radius: 25px !important;
-    color: #c9d1d7;
+    color: #70757a;
     width: 15vw !important;
+    height: 5vh !important;
+    text-align: center;
   }
