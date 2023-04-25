@@ -15,10 +15,11 @@ Aquest servidor de phishing estarà allotjat dintre d'una raspberry pi, és a di
 
 | Contenido | Descripción | Última modificación |
 | --------- | ----------- | -------------------|
-| Zphisher | Zphisher es una herramienta de phishing automatizada basada en la línea de comandos. Permite a los atacantes crear sitios web de phishing para robar credenciales de inicio de sesión. | 25/04/2023 |
-| Plantillas HTML | Las plantillas HTML son archivos predefinidos que contienen el código HTML básico necesario para crear un sitio web. Los usuarios pueden personalizar estas plantillas para adaptarlas a sus necesidades específicas. | 20/05/2023 |
-| CSS | CSS (Cascading Style Sheets) es un lenguaje utilizado para describir la presentación visual de un documento HTML o XML. Permite a los usuarios personalizar la apariencia de los elementos de una página web, como el color, la fuente y el tamaño. | 20/05/2023 |
-| JavaScript de Google | El JavaScript de Google es un conjunto de herramientas y tecnologías utilizadas para crear aplicaciones web. Permite a los desarrolladores crear aplicaciones web altamente interactivas y dinámicas mediante la manipulación del contenido HTML y CSS en tiempo real. | 20/05/2023 |
+| Zphisher | Zphisher és una eina de phishing automatitzada basada en la línia d'ordres. Permet als atacants crear llocs web de pesca (phishing) per robar credencials d'inici de sessió. | 25/04/2023 |
+| Plantillas HTML | Les plantilles HTML són fitxers predefinits que contenen el codi HTML bàsic necessari per crear un lloc web. Els usuaris poden personalitzar aquestes plantilles per adaptar-les a les vostres necessitats específiques. | 20/04/2023 |
+| CSS | CSS (Cascading Style Sheets) és un llenguatge utilitzat per descriure la presentació visual d'un document HTML o XML. Permet als usuaris personalitzar l'aparença dels elements d'una pàgina web, com ara el color, la font i la mida. | 20/04/2023 |
+| JavaScript de Google | El JavaScript de Google és un conjunt d'eines i tecnologies utilitzades per crear aplicacions web. Permet als desenvolupadors crear aplicacions web altament interactives i dinàmiques mitjançant la manipulació del contingut HTML i CSS en temps real. | 20/04/2023 |
+| PHP | PHP és un llenguatge de programació de codi obert utilitzat principalment per al desenvolupament d'aplicacions web del costat del servidor. | 25/04/2023 |
 
 | Integrants del grup | Rol |
 | --------- | --------- |
@@ -26,3 +27,12 @@ Aquest servidor de phishing estarà allotjat dintre d'una raspberry pi, és a di
 | Ferran Garcia | Plantilles css i Html |
 | Gerard Loriz | Raspberry pi i programació del servidor |
 | Sergi Giribet | Plantilles Css, Html i php |
+
+## 2. Requisits del sistema
+
+Per poder fer aquest projecte és important tenir el seguent:
+
+- Sistema operatiu: Un que sigui compatible amb Node.js i que estigui basat en Linux.
+- Node.js: versió 10.0 o superior
+- Navegador web: Cualsevol navegador amb sortida a internet.
+- Ordinador servidor: En el nostre cas ha sigut una RaspberryPi
