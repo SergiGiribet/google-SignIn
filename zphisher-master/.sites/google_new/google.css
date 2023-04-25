@@ -272,7 +272,7 @@ body {
   }
 
   .dropemail{
-    border-radius: 25%;
-    background-color: #d4dbe1;
-    color: #474a4e;
+    border-radius: 25px !important;
+    color: #c9d1d7;
+    width: 15vw !important;
   }
