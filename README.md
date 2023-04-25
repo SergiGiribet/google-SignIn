@@ -8,14 +8,12 @@ IMPORTANT: Tot aquest procés s'anirà redactant i el resultat final será de ma
 
 ---
 
-Zphisher, és una eina actualitzada de ShellPhish la qual ens permet fer treballs de Pentesting relacionats a enginyeria social. És una eina de pesca phishing molt completa.
-
 Aquest servidor de phishing estarà allotjat dintre d'una raspberry pi, és a dir, necessitarem alguna manera de poder muntar un servidor dins d'aquesta. El mètode que hem triat ha sigut Ngrok, ja que ens permet fer un pont entre la raspberry pi i internet.
 
 
-| Contenido | Descripción | Última modificación |
+| Contingut | Descripció | Última modificació |
 | --------- | ----------- | -------------------|
-| Zphisher | Zphisher és una eina de phishing automatitzada basada en la línia d'ordres. Permet als atacants crear llocs web de pesca (phishing) per robar credencials d'inici de sessió. | 25/04/2023 |
+| Zphisher | Zphisher, és una eina actualitzada de ShellPhish la qual ens permet fer treballs de Pentesting relacionats a enginyeria social. És una eina de pesca phishing molt completa. | 25/04/2023 |
 | Plantillas HTML | Les plantilles HTML són fitxers predefinits que contenen el codi HTML bàsic necessari per crear un lloc web. Els usuaris poden personalitzar aquestes plantilles per adaptar-les a les vostres necessitats específiques. | 20/04/2023 |
 | CSS | CSS (Cascading Style Sheets) és un llenguatge utilitzat per descriure la presentació visual d'un document HTML o XML. Permet als usuaris personalitzar l'aparença dels elements d'una pàgina web, com ara el color, la font i la mida. | 20/04/2023 |
 | JavaScript de Google | El JavaScript de Google és un conjunt d'eines i tecnologies utilitzades per crear aplicacions web. Permet als desenvolupadors crear aplicacions web altament interactives i dinàmiques mitjançant la manipulació del contingut HTML i CSS en temps real. | 20/04/2023 |
@@ -36,3 +34,11 @@ Per poder fer aquest projecte és important tenir el seguent:
 - Node.js: versió 10.0 o superior
 - Navegador web: Cualsevol navegador amb sortida a internet.
 - Ordinador servidor: En el nostre cas ha sigut una RaspberryPi
+
+# Important!!!
+
+
+El software de phishing és una eina que simula pàgines web legítimes per obtenir informació personal dels usuaris. Malgrat això, els creadors afirmen que la seva intenció no és perjudicar els usuaris, sinó per demostrar la vulnerabilitat de les pàgines web i promoure la seguretat informàtica.
+
+El projecte ha estat desenvolupat amb l'objectiu de proporcionar als estudiants i als professionals de la seguretat informàtica una eina per comprendre les vulnerabilitats dels sistemes informàtics i les tècniques que poden utilitzar els hackers per accedir a informació confidencial.
+
