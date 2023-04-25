@@ -25,8 +25,8 @@
         <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="Google logo">
         <h1>Te damos la Bienvenida</h1>
         <br>
-        <input type="mail" id="email" name="username" required value="<?php echo $username; ?>">
-        <input type="password" id="email" name="password" placeholder="Introduce tu contraseña" required>
+        <input type="email" class="dropemail" name="username" required value="<?php echo $username; ?>">
+        <input type="password" name="password" placeholder="Introduce tu contraseña" required>
         <input type="checkbox" name="checkbox" placeholder="">Mostrar contraseña
         <br>
         <br>

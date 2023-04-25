@@ -271,4 +271,8 @@ body {
     margin-top: -10px;
   }
 
-  
+  .dropemail{
+    border-radius: 25%;
+    background-color: #d4dbe1;
+    color: #474a4e;
+  }
