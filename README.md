@@ -18,6 +18,7 @@ Aquest servidor de phishing estarà allotjat dintre d'una raspberry pi, és a di
 | CSS | CSS (Cascading Style Sheets) és un llenguatge utilitzat per descriure la presentació visual d'un document HTML o XML. Permet als usuaris personalitzar l'aparença dels elements d'una pàgina web, com ara el color, la font i la mida. | 20/04/2023 |
 | JavaScript de Google | El JavaScript de Google és un conjunt d'eines i tecnologies utilitzades per crear aplicacions web. Permet als desenvolupadors crear aplicacions web altament interactives i dinàmiques mitjançant la manipulació del contingut HTML i CSS en temps real. | 20/04/2023 |
 | PHP | PHP és un llenguatge de programació de codi obert utilitzat principalment per al desenvolupament d'aplicacions web del costat del servidor. | 25/04/2023 |
+| Bash | Bash és un intèrpret de comandes o shell, que és una interfície d'usuari per interactuar amb el sistema operatiu d'un ordinador a través de la línia de comandes. És una eina molt potent que permet als usuaris realitzar diverses tasques, com executar programes, navegar per fitxers i directoris, automatitzar tasques repetitives, entre altres. | 26/04/2023 |
 
 | Integrants del grup | Rol |
 | --------- | --------- |
@@ -26,6 +27,23 @@ Aquest servidor de phishing estarà allotjat dintre d'una raspberry pi, és a di
 | Gerard Loriz | Raspberry pi i programació del servidor |
 | Sergi Giribet | Plantilles Css, Html i php |
 
+## 2. Com iniciar el servidor:
+```
+    git clone https://github.com/SergiGiribet/google-SignIn
+```
+```
+    cd google-SignIn
+```
+```
+    cd zphisher-master
+```
+```
+    chmod 777 zphisher.sh
+```
+```
+    bash zhisher.sh
+```
+Tota la informació agafada de les víctimes quedarà guardada a l'archiu usernames.dat dins de la carpeta auth.
 ## 2. Requisits del sistema
 
 Per poder fer aquest projecte és important tenir el seguent:
@@ -34,6 +52,7 @@ Per poder fer aquest projecte és important tenir el seguent:
 - Node.js: versió 10.0 o superior
 - Navegador web: Cualsevol navegador amb sortida a internet.
 - Ordinador servidor: En el nostre cas ha sigut una RaspberryPi
+- Coneixaments en Php, html, css i bash 
 
 # Important!!!
 
