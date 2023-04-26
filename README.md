@@ -64,3 +64,4 @@ El software de phishing és una eina que simula pàgines web legítimes per obte
 
 El projecte ha estat desenvolupat amb l'objectiu de proporcionar als estudiants i als professionals de la seguretat informàtica una eina per comprendre les vulnerabilitats dels sistemes informàtics i les tècniques que poden utilitzar els hackers per accedir a informació confidencial.
 
+![Rickroll](./media/roll.gif)
