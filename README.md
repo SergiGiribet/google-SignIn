@@ -2,7 +2,7 @@
 
 ## Proposta Projecte 9: Ensenya als profes
 
-Bones, seríem l'Adriá Manero, el Gerard Loriz, en Sergi Giribet i jo, Ferran Garcia, i el nostre projecte es basarà en simular (de manera controlada) un atac de phishing a través de Black Eye, aquest atac de phishing estarà darrere d'un inici de sessió de Google fals creat per nosaltres amb HTML, CSS i JS molt semblant i pràcticament idèntic a l'inici de sessió original. Aquest inici de "sessió de Google" serà necessari per a poder accedir a un formulari de Google, com si fos un treball de recerca, és a dir, que l'usuari es pensarà que per a accedir al formulari haurà d'iniciar sessió, i el que realment fará será enviar-nos al nostre servidor Debian el text que ha introduït en format Excel.
+Bones, seríem l'Adriá Manero, el Gerard Loriz, en Sergi Giribet i jo, Ferran Garcia, i el nostre projecte es basarà en simular (de manera controlada) un atac de phishing a través de Black Eye. Aquest atac de phishing estarà darrere d'un inici de sessió de Google fals creat per nosaltres amb HTML, CSS i JS molt semblant ( pràcticament idèntic ) a l'inici de sessió original. Aquest inici de "sessió de Google" serà necessari per a poder accedir a un formulari de Google, com si fos un treball de recerca, és a dir, que l'usuari es pensarà que per a accedir al formulari haurà d'iniciar sessió, i el que realment fará será enviar-nos al nostre servidor Debian el text que ha introduït en format Excel. Totes les dades es reculliran en un arxiu txt i posteriorment es guardaran en un fitxer .dat.
 
 IMPORTANT: Tot aquest procés s'anirà redactant i el resultat final será de manera educativa i sense cap tipus d’intenció que posi en problemes la seguretat i privacitat de ningú.
 
