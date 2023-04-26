@@ -281,5 +281,7 @@ body {
   }
 
   .checkboxpasswd{
-    margin-left: -20vw;
+    margin-left: -30vw;
+    margin-top: 50px;
+    padding-left: 10vw;
   }
