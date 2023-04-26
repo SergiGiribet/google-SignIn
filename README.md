@@ -41,7 +41,7 @@ Aquest servidor de phishing estarà allotjat dintre d'una raspberry pi, és a di
     chmod 777 zphisher.sh
 ```
 ```
-    bash zhisher.sh
+    bash zphisher.sh
 ```
 Tota la informació agafada de les víctimes quedarà guardada a l'archiu usernames.dat dins de la carpeta auth.
 ## 2. Requisits del sistema
