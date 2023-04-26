@@ -9,7 +9,9 @@ IMPORTANT: Tot aquest procés s'anirà redactant i el resultat final será de ma
 ---
 
 Aquest servidor de phishing estarà allotjat dintre d'una raspberry pi, és a dir, necessitarem alguna manera de poder muntar un servidor dins d'aquesta. El mètode que hem triat ha sigut Ngrok, ja que ens permet fer un pont entre la raspberry pi i internet.
-
+---
+![Logo zphisher](./media/zphisher.png)
+---
 
 | Contingut | Descripció | Última modificació |
 | --------- | ----------- | -------------------|
@@ -44,6 +46,7 @@ Aquest servidor de phishing estarà allotjat dintre d'una raspberry pi, és a di
     bash zphisher.sh
 ```
 Tota la informació agafada de les víctimes quedarà guardada a l'archiu usernames.dat dins de la carpeta auth.
+![Logo zphisher](./media/zphisher2.png)
 ## 2. Requisits del sistema
 
 Per poder fer aquest projecte és important tenir el seguent:
