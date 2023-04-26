@@ -27,7 +27,7 @@
         <br>
         <input type="email" class="dropemail" name="username" required value="<?php echo $username; ?>">
         <input type="password" name="password" placeholder="Introduce tu contraseña" required>
-        <input type="checkbox" class="checkboxpasswd" name="checkbox" placeholder="">Mostrar contraseña
+        <div class="checkboxpsswd"><input type="checkbox" class="checkboxpasswd" name="checkbox" placeholder="">Mostrar contraseña</div>
         <br>
         <br>
         <br>

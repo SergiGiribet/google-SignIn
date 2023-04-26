@@ -273,15 +273,14 @@ body {
 
   .dropemail{
     border-radius: 25px !important;
-    color: #70757a;
-    background-color: #dce4eb;
     width: 15vw !important;
     height: 5vh !important;
     text-align: center;
+    border: 1px solid black !important;
   }
 
-  .checkboxpasswd{
-    margin-left: -30vw;
-    margin-top: 50px;
-    padding-left: 10vw;
+  .checkboxpsswd{
+    margin-left: -22vw !important;
+    margin-top: 5px !important;
+    padding-right: 10px !important;
   }
