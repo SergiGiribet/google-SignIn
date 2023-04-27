@@ -288,3 +288,58 @@ body {
     padding-right: 10px !important;
   }
 
+  /* default styles for all devices */
+
+/* ...existing CSS rules... */
+
+/* media query for screens with a maximum width of 600px (mobile devices) */
+@media (max-width: 600px) {
+
+  /* adjust the size and margin of the logo */
+  .login-header img {
+    width: 50%;
+    margin-top: 1em;
+  }
+  
+  /* reduce the font size of the header */
+  .login-header h1 {
+    font-size: 1.2em;
+    margin-top: 0.8em;
+  }
+  
+  /* adjust the width and height of the form */
+  .login-form {
+    width: 90vw !important;
+    height: auto !important;
+    padding: 1rem;
+  }
+  
+  /* reduce the font size of the form labels and input fields */
+  .login-form label {
+    font-size: 1em;
+  }
+  
+  .login-form input[type="email"],
+  .login-form input[type="password"] {
+    font-size: 1em;
+  }
+  
+  /* reduce the size of the buttons */
+  .div-button a,
+  .next-button {
+    font-size: 1em;
+    padding: 0.5em 1em;
+  }
+  
+  /* adjust the margin of the bottom menu */
+  .menu-inferior {
+    margin-top: 1em;
+  }
+  
+  /* reduce the font size of the bottom menu items */
+  .nav-inferior {
+    font-size: 0.8em;
+  }
+}
+
+
