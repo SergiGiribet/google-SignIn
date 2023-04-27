@@ -61,7 +61,21 @@ Per poder fer aquest projecte és important tenir el seguent:
 ```
     bash zphisher.sh
 ```
-
+```
+    Triem quina plantilla volem utilitzar:
+```
+```
+    Triem el servidor de cloudflare:
+```
+```
+    Deixem el port per defecte:
+```
+```
+    Enmascarem el url amb una direcció que sembli de google (ex: google.auth.login.userid)
+```
+```
+    Només falta enviar l'enllaç proporcionat a la persona que vulguem i fer una mica d'ingenyeria social per aconsegui que aquella persona faci login
+```
 Tota la informació agafada de les víctimes quedarà guardada a l'archiu usernames.dat dins de la carpeta auth.
 ![Imagen users](./media/user.png)
 ![Imagen ip](./media/ip.png)
