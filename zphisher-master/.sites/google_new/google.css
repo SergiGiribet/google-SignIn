@@ -52,7 +52,7 @@ body {
     border: solid 1px #d4dbe1;
     padding: 2rem;
     width: 31.5vw !important;
-    height: 75vh !important;
+    height: auto !important;
   }
   
   .login-form label {
