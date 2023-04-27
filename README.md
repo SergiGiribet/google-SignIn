@@ -29,6 +29,16 @@ Aquest servidor de phishing estarà allotjat dintre d'una raspberry pi, és a di
 | Gerard Loriz | Raspberry pi i programació del servidor |
 | Sergi Giribet | Plantilles Css, Html i php |
 
+## 1. Requisits del sistema
+
+Per poder fer aquest projecte és important tenir el seguent:
+
+- Sistema operatiu: Un que sigui compatible amb Node.js i que estigui basat en Linux.
+- Node.js: versió 10.0 o superior
+- Navegador web: Cualsevol navegador amb sortida a internet.
+- Ordinador servidor: En el nostre cas ha sigut una RaspberryPi
+- Coneixaments en Php, html, css i bash 
+
 ## 2. Com iniciar el servidor:
 ```
     git clone https://github.com/SergiGiribet/google-SignIn
@@ -46,16 +56,12 @@ Aquest servidor de phishing estarà allotjat dintre d'una raspberry pi, és a di
     bash zphisher.sh
 ```
 Tota la informació agafada de les víctimes quedarà guardada a l'archiu usernames.dat dins de la carpeta auth.
-![Logo zphisher](./media/zphisher2.png)
-## 2. Requisits del sistema
+![Imagen users](./media/user.png)
+![Imagen ip](./media/ip.png)
 
-Per poder fer aquest projecte és important tenir el seguent:
+## 3. Video exemple:
+![Video exemple](./media/exemplemp4.mp4)
 
-- Sistema operatiu: Un que sigui compatible amb Node.js i que estigui basat en Linux.
-- Node.js: versió 10.0 o superior
-- Navegador web: Cualsevol navegador amb sortida a internet.
-- Ordinador servidor: En el nostre cas ha sigut una RaspberryPi
-- Coneixaments en Php, html, css i bash 
 
 # Important!!!
 
