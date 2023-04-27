@@ -283,4 +283,7 @@ body {
     margin-left: -22vw !important;
     margin-top: 5px !important;
     padding-right: 10px !important;
+    background-image: url(../../../media/person-circle.svg);
+    background-repeat: no-repeat;
+    background-position: right;
   }
