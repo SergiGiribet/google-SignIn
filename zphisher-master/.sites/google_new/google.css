@@ -342,4 +342,17 @@ body {
   }
 }
 
+@media screen and (max-width: 768px) {
+  .login-container {
+    justify-content: center;
+    height: auto;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .login-form {
+    width: 31.5vw;
+    height: 75vh;
+  }
+}
 
