@@ -26,7 +26,7 @@
         <h1>Te damos la Bienvenida</h1>
         <br>
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script>
+<script style="">
 $(document).ready(function(){
     $('#muestrapassword').click(function(){
         var defType = 'password';
