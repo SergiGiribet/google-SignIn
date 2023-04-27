@@ -274,10 +274,12 @@ body {
   .dropemail{
     border-radius: 25px !important;
     width: 15vw !important;
-    height: 4vh !important;
+    height: 4.5vh !important;
     text-align: center;
-    border: 0.5px solid black !important;
+    border: 0.5px solid darkgray !important;
     font-size: small;
+    color: #474a4e;
+    background-color: rgb(233, 233, 233);
   }
 
   .checkboxpsswd{
@@ -285,3 +287,4 @@ body {
     margin-top: 5px !important;
     padding-right: 10px !important;
   }
+
