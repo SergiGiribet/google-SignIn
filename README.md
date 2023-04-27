@@ -26,7 +26,7 @@ Aquest servidor de phishing estarà allotjat dintre d'una raspberry pi, és a di
 | Integrants del grup | Rol                                     |
 | ------------------- | --------------------------------------- |
 | Adria Manero        | Idea I desenvolupament                  |
-| Ferran Garcia       | Plantilles css i Html                   |
+| Ferran Garcia       | Vídeo explicatiu                        |
 | Gerard Loriz        | Raspberry pi i programació del servidor |
 | Sergi Giribet       | Plantilles Css, Html i php              |
 
