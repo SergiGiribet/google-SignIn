@@ -278,9 +278,6 @@ body {
     text-align: center;
     border: 0.5px solid black !important;
     font-size: small;
-    background-image: url(../../../media/person-circle.svg) !important;
-    background-repeat: no-repeat !important;
-    background-position: right !important;
   }
 
   .checkboxpsswd{
