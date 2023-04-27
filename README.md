@@ -9,6 +9,7 @@ IMPORTANT: Tot aquest procés s'anirà redactant i el resultat final será de ma
 ---
 
 Aquest servidor de phishing estarà allotjat dintre d'una raspberry pi, és a dir, necessitarem alguna manera de poder muntar un servidor dins d'aquesta. El mètode que hem triat ha sigut Ngrok, ja que ens permet fer un pont entre la raspberry pi i internet.
+
 ---
 ![Logo zphisher](./media/zphisher.png)
 ---
@@ -69,5 +70,7 @@ Tota la informació agafada de les víctimes quedarà guardada a l'archiu userna
 El software de phishing és una eina que simula pàgines web legítimes per obtenir informació personal dels usuaris. Malgrat això, els creadors afirmen que la seva intenció no és perjudicar els usuaris, sinó per demostrar la vulnerabilitat de les pàgines web i promoure la seguretat informàtica.
 
 El projecte ha estat desenvolupat amb l'objectiu de proporcionar als estudiants i als professionals de la seguretat informàtica una eina per comprendre les vulnerabilitats dels sistemes informàtics i les tècniques que poden utilitzar els hackers per accedir a informació confidencial.
+
+No ens fem responsables del posibles usos inadecuats que se li puguinn donar a aquesta eina.
 
 ![Rickroll](./media/roll.gif)
