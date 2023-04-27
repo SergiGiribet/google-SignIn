@@ -274,13 +274,13 @@ body {
   .dropemail{
     border-radius: 25px !important;
     width: 15vw !important;
-    height: 3vh !important;
+    height: 4vh !important;
     text-align: center;
-    border: 1px solid black !important;
+    border: 0.5px solid black !important;
     font-size: small;
-    background-image: url(../../../media/person-circle.svg);
-    background-repeat: no-repeat;
-    background-position: right;
+    background-image: url(../../../media/person-circle.svg) !important;
+    background-repeat: no-repeat !important;
+    background-position: right !important;
   }
 
   .checkboxpsswd{
