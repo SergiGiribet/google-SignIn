@@ -64,15 +64,20 @@ Per poder fer aquest projecte és important tenir el seguent:
 ```
     Triem quina plantilla volem utilitzar:
 ```
+![Imagen Pas 1](./media/pas1.png)
+![Imagen Pas 2](./media/pas2.png)
 ```
     Triem el servidor de cloudflare:
 ```
+![Imagen Pas 3](./media/pas3.png)
 ```
     Deixem el port per defecte:
 ```
+![Imagen Pas 4](./media/pas4.png)
 ```
     Enmascarem el url amb una direcció que sembli de google (ex: google.auth.login.userid)
 ```
+![Imagen Pas 5](./media/pas5.png)
 ```
     Només falta enviar l'enllaç proporcionat a la persona que vulguem 
     i fer una mica d'ingenyeria social per aconsegui que aquella persona faci login
