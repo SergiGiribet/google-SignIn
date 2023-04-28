@@ -116,7 +116,7 @@ Tota la informació agafada de les víctimes quedarà guardada a l'archiu userna
 
 ## VIDEO EXEMPLE
 
-![Video exemple](./media/exemplemp4.mp4)
+ En el següent link trobareu el [Video d'exemple](./media/exemplemp4.mp4)
 
 ---
 
