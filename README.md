@@ -62,7 +62,7 @@ Els requisits per executar aquest projecte son els següents:
 
 ## EL NOSTRE SET-UP 
 
-El nostre Setup es una Raspberry Pi 4 Model B amb el Raspberry Pi OS (Que està basat en debian) amb els programes necessaris per fer la instal·lació: Git, Nano, Curl, etc…)
+El nostre Setup es una Raspberry Pi 4 Model B amb el Raspberry Pi OS (Que està basat en debian) amb els programes necessaris per fer la instal·lació: Git, Nano, Curl, etc…
 
 ---
 
@@ -116,7 +116,7 @@ Tota la informació agafada de les víctimes quedarà guardada a l'archiu userna
 
 ## VIDEO EXEMPLE
 
- En el següent link trobareu el [Video d'exemple](./media/exemplemp4.mp4)
+ En el següent link trobareu el [Video d'exemple](https://drive.google.com/file/d/10Xa7hCFfjulDkgbWC3dhosWrh_neoYsz/view?usp=sharing)
 
 ---
 
