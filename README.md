@@ -3,14 +3,14 @@
 ---
 ## INDEX
 
-- [ABOUT](adri.md#about)
-- [EXPLICACIÓ TECNICA](adri.md#explicació-tecnica)
-- [PARAULES CLAU](adri.md#paraules-clau)
-- [REQUISITS PREVIS](adri.md#requisits-previs)
-- [EL NOSTRE SET-UP](adri.md#el-nostre-set-up)
-- [TUTORIAL INSTAL·LACIÓ](adri.md#tutorial-installació)
-- [VIDEO EXEMPLE](adri.md#video-exemple)
-- [DISCLAIMER](adri.md#disclaimer)
+- [ABOUT](README#about)
+- [EXPLICACIÓ TECNICA](README#explicació-tecnica)
+- [PARAULES CLAU](README#paraules-clau)
+- [REQUISITS PREVIS](README#requisits-previs)
+- [EL NOSTRE SET-UP](README#el-nostre-set-up)
+- [TUTORIAL INSTAL·LACIÓ](README#tutorial-installació)
+- [VIDEO EXEMPLE](README#video-exemple)
+- [DISCLAIMER](README#disclaimer)
 
 ---
 
