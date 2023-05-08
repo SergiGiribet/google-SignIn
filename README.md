@@ -3,14 +3,14 @@
 ---
 ## INDEX
 
-- [ABOUT](README#about)
-- [EXPLICACIÓ TECNICA](README#explicació-tecnica)
-- [PARAULES CLAU](README#paraules-clau)
-- [REQUISITS PREVIS](README#requisits-previs)
-- [EL NOSTRE SET-UP](README#el-nostre-set-up)
-- [TUTORIAL INSTAL·LACIÓ](README#tutorial-installació)
-- [VIDEO EXEMPLE](README#video-exemple)
-- [DISCLAIMER](README#disclaimer)
+- [ABOUT](README.md#about)
+- [EXPLICACIÓ TECNICA](README.md#explicació-tecnica)
+- [PARAULES CLAU](README.md#paraules-clau)
+- [REQUISITS PREVIS](README.md#requisits-previs)
+- [EL NOSTRE SET-UP](README.md#el-nostre-set-up)
+- [TUTORIAL INSTAL·LACIÓ](README.md#tutorial-installació)
+- [VIDEO EXEMPLE](README.md#video-exemple)
+- [DISCLAIMER](README.md#disclaimer)
 
 ---
 
